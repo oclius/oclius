@@ -1,0 +1,4 @@
+# Minimal runtime requirements
+# Keep dependencies single-sourced in pyproject.toml
+# Installing with this file will install the package and its deps.
+-e .
